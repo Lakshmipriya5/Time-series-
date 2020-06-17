@@ -1,2 +1,2 @@
 # Time-series-
-this repository contains data regarding time series modelling
+This repository contains example case studies of  time series modelling
